@@ -4,6 +4,8 @@ Kubernetes+Swarm from a Docker Captain
 
 This repo "Docker Mastery" and "Swarm Mastery"
 
+NOTE: As of July 2020 the new default branch is `main`, so please update your clone if you're still on `master` branch.
+
 Get these courses for with my "cheapest on the Internet" coupon links:
 
 
